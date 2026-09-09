@@ -1,0 +1,12 @@
+{
+  "name": "bedrock-guard-bot",
+  "version": "1.0.0",
+  "main": "guard.js",
+  "scripts": {
+    "start": "node guard.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.28.0",
+    "axios": "^1.7.2"
+  }
+}
